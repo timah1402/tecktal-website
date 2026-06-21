@@ -1,0 +1,208 @@
+{
+  "Metadata": {
+    "title": "Tecktal Tutor: your AI-powered study companion",
+    "description": "Tecktal Tutor is an AI platform that helps students truly understand their coursework: smart solver, quizzes, deep research, guided learning and a voice tutor."
+  },
+  "Nav": {
+    "approach": "Approach",
+    "tutor": "Tecktal Tutor",
+    "contact": "Contact",
+    "languageLabel": "Language"
+  },
+  "Hero": {
+    "kicker": "EdTech · Dakar, Senegal",
+    "titleStart": "An AI tutor that turns your coursework into",
+    "titleHighlight": "real understanding.",
+    "lead": "Tecktal Tutor is your AI study companion: upload your courses, ask questions, practice with quizzes, and make progress with a voice tutor that's always available.",
+    "cta": "Explore Tecktal Tutor",
+    "statValue": "11",
+    "statLabel": "Built-in AI tools",
+    "markAlt": "TECKTAL mark"
+  },
+  "Manifesto": {
+    "kicker": "The thesis",
+    "titleLine1Start": "AI shouldn't",
+    "titleLine1Highlight": "skip the thinking.",
+    "titleLine2Start": "It should",
+    "titleLine2Highlight": "structure the learning.",
+    "body": "Tecktal Tutor is built to close the gap between raw AI and real pedagogy. Instead of just handing over the answer, it guides every student through the reasoning — explanations, practice, research and progress tracking — so understanding becomes the norm, not the exception."
+  },
+  "Gallery": {
+    "kicker": "Tecktal Tutor in action",
+    "title": "Learning, for real, with AI.",
+    "subtitle": "See the tools students use every day to make progress.",
+    "slideLabel": "Slide {number}",
+    "slides": {
+      "0": "Ask a question, Tecktal Tutor answers like a real private tutor",
+      "1": "Talk out loud with your voice tutor, completely hands-free",
+      "2": "The Smart Solver breaks down every step of the solution",
+      "3": "Deep Research generates complete, sourced reports",
+      "4": "Guided Learning builds your path, lesson by lesson",
+      "5": "Generate custom quizzes and track your progress"
+    }
+  },
+  "Tutor": {
+    "sectionTitle": "Tecktal Tutor: one AI study companion, every tool you need.",
+    "sectionSubtitle": "Eleven AI-powered tools that turn your coursework into real understanding.",
+    "features": {
+      "chat": {
+        "name": "AI Tutor Chat",
+        "tag": "Ask anything",
+        "description": "Ask a question about any subject and get a clear, structured explanation — like having an excellent private tutor available around the clock.",
+        "highlights": {
+          "0": "Detailed answers with concrete examples",
+          "1": "Hands-free mode: just speak, the AI listens"
+        }
+      },
+      "voice": {
+        "name": "Voice Tutor",
+        "tag": "Learn out loud",
+        "description": "Talk out loud with your AI tutor. The conversation is full-duplex: interrupt, backtrack, or ask for another explanation, just like a real conversation.",
+        "highlights": {
+          "0": "Multiple voices to choose from",
+          "1": "Perfect for screen-free review"
+        }
+      },
+      "solver": {
+        "name": "Smart Solver",
+        "tag": "Step by step",
+        "description": "Give it a math, physics or chemistry problem: the Solver breaks down every step of the solution, formulas included, all the way to the verified result.",
+        "highlights": {
+          "0": "Detailed steps with formulas",
+          "1": "Verified by Tecktal's logic engine"
+        }
+      },
+      "questions": {
+        "name": "Question Generator",
+        "tag": "Custom quizzes",
+        "description": "Automatically generate multiple-choice quizzes from your own course material to practice, with instant grading and score tracking.",
+        "highlights": {
+          "0": "Quizzes generated from your documents",
+          "1": "Real-time score and progress"
+        }
+      },
+      "research": {
+        "name": "Deep Research",
+        "tag": "Sourced research reports",
+        "description": "Launch a deep research session on any topic: Tecktal Tutor searches your documents and the web, then writes a structured, sourced report ready to export.",
+        "highlights": {
+          "0": "Quick, medium or deep research plans",
+          "1": "Export to Markdown or PDF"
+        }
+      },
+      "learning": {
+        "name": "Guided Learning",
+        "tag": "Your path, lesson by lesson",
+        "description": "From your own notes, Tecktal Tutor builds a step-by-step lesson path, with explanations, questions and progress tracking.",
+        "highlights": {
+          "0": "Lessons generated from your documents",
+          "1": "Visible step-by-step progress"
+        }
+      },
+      "cowriter": {
+        "name": "Co-Writer",
+        "tag": "AI-assisted writing",
+        "description": "Write essays, reports or summaries in a markdown editor with live preview, and ask the AI to improve the style or sharpen the conclusion.",
+        "highlights": {
+          "0": "Automatic AI continuation",
+          "1": "Targeted rewrite suggestions"
+        }
+      },
+      "ideagen": {
+        "name": "IdeaGen",
+        "tag": "Generate research ideas",
+        "description": "Generate research directions and full proposals — hypothesis, methodology, expected outcomes — from the documents you select.",
+        "highlights": {
+          "0": "Multiple ideas generated in one click",
+          "1": "Detailed, structured proposals"
+        }
+      },
+      "knowledge": {
+        "name": "Knowledge Bases",
+        "tag": "Your documents as the source",
+        "description": "Upload your courses, notes and textbooks into dedicated knowledge bases: Tecktal Tutor uses them as the source for every answer.",
+        "highlights": {
+          "0": "One base per subject or project",
+          "1": "Document processing status at a glance"
+        }
+      },
+      "notebooks": {
+        "name": "Notebooks",
+        "tag": "Save and organize",
+        "description": "Save generated solutions, quizzes and research into notebooks organized by subject, so you can find them easily before a test.",
+        "highlights": {
+          "0": "Notebooks organized by subject",
+          "1": "Export to Markdown"
+        }
+      },
+      "history": {
+        "name": "History",
+        "tag": "Everything in one place",
+        "description": "Find every past session — solver, research, quizzes, conversations — sorted by date and type, with quick search.",
+        "highlights": {
+          "0": "Search by title or topic",
+          "1": "Filter by activity type"
+        }
+      }
+    }
+  },
+  "Approach": {
+    "kicker": "The approach",
+    "titleStart": "Tecktal Tutor doesn't replace your thinking. It gives it",
+    "titleHighlight": "structure",
+    "titleEnd": "to grow.",
+    "steps": {
+      "0": {
+        "title": "Import your courses",
+        "body": "Add your notes, textbooks and materials to your knowledge bases: Tecktal Tutor uses them as the source for every answer."
+      },
+      "1": {
+        "title": "Learn actively",
+        "body": "Ask questions, solve exercises, generate quizzes and follow a guided path — by text or out loud with the voice tutor."
+      },
+      "2": {
+        "title": "Track your progress",
+        "body": "History and notebooks keep a record of everything you've worked on, ready to review before a test."
+      }
+    }
+  },
+  "Contact": {
+    "kicker": "Contact us",
+    "title": "Bring Tecktal Tutor to your students.",
+    "emailNote": "We reply within 1–2 business days",
+    "locationLabel": "Dakar, Senegal",
+    "locationNote": "Serving classrooms across the region",
+    "form": {
+      "nameLabel": "Full name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "you@school.com",
+      "orgLabel": "School / Organization",
+      "orgPlaceholder": "Where you teach or work",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell us about your classroom and what you'd like to see…",
+      "submit": "Send message",
+      "errorMissing": "Please add your name and email.",
+      "success": "Thanks, {name}! We'll get back to you soon."
+    }
+  },
+  "Footer": {
+    "tagline": "Tecktal Tutor: an AI study companion that helps every student truly understand, not just copy an answer.",
+    "columns": {
+      "features": "Features",
+      "company": "Company",
+      "getInTouch": "Get in touch"
+    },
+    "links": {
+      "smartSolver": "Smart Solver",
+      "voiceTutor": "Voice Tutor",
+      "deepResearch": "Deep Research",
+      "guidedLearning": "Guided Learning",
+      "approach": "Approach",
+      "contact": "Contact",
+      "contactUs": "Contact us"
+    },
+    "copyright": "© 2026 Tecktal. All rights reserved.",
+    "location": "Dakar, Senegal"
+  }
+}
