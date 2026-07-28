@@ -7,8 +7,8 @@ import { Reveal } from "./reveal";
 
 const SLIDE_SOURCES = [
   "/assets/tutor/tutor-home.png",
-  "/assets/tutor/tutor-voice.png",
   "/assets/tutor/tutor-solver.png",
+  "/assets/tutor/tutor-visualize.png",
   "/assets/tutor/tutor-research.png",
   "/assets/tutor/tutor-learning.png",
   "/assets/tutor/tutor-questions.png",

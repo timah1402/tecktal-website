@@ -15,7 +15,7 @@
     "titleHighlight": "real understanding.",
     "lead": "Tecktal Tutor is your AI study companion: upload your courses, ask questions, practice with quizzes, and make progress with a voice tutor that's always available.",
     "cta": "Explore Tecktal Tutor",
-    "statValue": "11",
+    "statValue": "6",
     "statLabel": "Built-in AI tools",
     "markAlt": "TECKTAL mark"
   },
@@ -34,8 +34,8 @@
     "slideLabel": "Slide {number}",
     "slides": {
       "0": "Ask a question, Tecktal Tutor answers like a real private tutor",
-      "1": "Talk out loud with your voice tutor, completely hands-free",
-      "2": "The Smart Solver breaks down every step of the solution",
+      "1": "The Smart Solver breaks down every step of the solution",
+      "2": "Turn any function or dataset into an interactive chart in seconds",
       "3": "Deep Research generates complete, sourced reports",
       "4": "Guided Learning builds your path, lesson by lesson",
       "5": "Generate custom quizzes and track your progress"
@@ -43,7 +43,7 @@
   },
   "Tutor": {
     "sectionTitle": "Tecktal Tutor: one AI study companion, every tool you need.",
-    "sectionSubtitle": "Eleven AI-powered tools that turn your coursework into real understanding.",
+    "sectionSubtitle": "Seven AI-powered tools that turn your coursework into real understanding.",
     "features": {
       "chat": {
         "name": "AI Tutor Chat",
@@ -52,15 +52,6 @@
         "highlights": {
           "0": "Detailed answers with concrete examples",
           "1": "Hands-free mode: just speak, the AI listens"
-        }
-      },
-      "voice": {
-        "name": "Voice Tutor",
-        "tag": "Learn out loud",
-        "description": "Talk out loud with your AI tutor. The conversation is full-duplex: interrupt, backtrack, or ask for another explanation, just like a real conversation.",
-        "highlights": {
-          "0": "Multiple voices to choose from",
-          "1": "Perfect for screen-free review"
         }
       },
       "solver": {
@@ -72,13 +63,13 @@
           "1": "Verified by Tecktal's logic engine"
         }
       },
-      "questions": {
-        "name": "Question Generator",
-        "tag": "Custom quizzes",
-        "description": "Automatically generate multiple-choice quizzes from your own course material to practice, with instant grading and score tracking.",
+      "visualize": {
+        "name": "Visualizer",
+        "tag": "See it as a chart",
+        "description": "Turn a function, dataset, or concept into an interactive chart or diagram on the spot, with the underlying code ready to copy or tweak.",
         "highlights": {
-          "0": "Quizzes generated from your documents",
-          "1": "Real-time score and progress"
+          "0": "Charts, diagrams and equations rendered instantly",
+          "1": "Full source code available to copy or tweak"
         }
       },
       "research": {
@@ -90,6 +81,15 @@
           "1": "Export to Markdown or PDF"
         }
       },
+      "questions": {
+        "name": "Question Generator",
+        "tag": "Custom quizzes",
+        "description": "Automatically generate multiple-choice quizzes from your own course material to practice, with instant grading and score tracking.",
+        "highlights": {
+          "0": "Quizzes generated from your documents",
+          "1": "Real-time score and progress"
+        }
+      },
       "learning": {
         "name": "Guided Learning",
         "tag": "Your path, lesson by lesson",
@@ -99,24 +99,6 @@
           "1": "Visible step-by-step progress"
         }
       },
-      "cowriter": {
-        "name": "Co-Writer",
-        "tag": "AI-assisted writing",
-        "description": "Write essays, reports or summaries in a markdown editor with live preview, and ask the AI to improve the style or sharpen the conclusion.",
-        "highlights": {
-          "0": "Automatic AI continuation",
-          "1": "Targeted rewrite suggestions"
-        }
-      },
-      "ideagen": {
-        "name": "IdeaGen",
-        "tag": "Generate research ideas",
-        "description": "Generate research directions and full proposals — hypothesis, methodology, expected outcomes — from the documents you select.",
-        "highlights": {
-          "0": "Multiple ideas generated in one click",
-          "1": "Detailed, structured proposals"
-        }
-      },
       "knowledge": {
         "name": "Knowledge Bases",
         "tag": "Your documents as the source",
@@ -124,24 +106,6 @@
         "highlights": {
           "0": "One base per subject or project",
           "1": "Document processing status at a glance"
-        }
-      },
-      "notebooks": {
-        "name": "Notebooks",
-        "tag": "Save and organize",
-        "description": "Save generated solutions, quizzes and research into notebooks organized by subject, so you can find them easily before a test.",
-        "highlights": {
-          "0": "Notebooks organized by subject",
-          "1": "Export to Markdown"
-        }
-      },
-      "history": {
-        "name": "History",
-        "tag": "Everything in one place",
-        "description": "Find every past session — solver, research, quizzes, conversations — sorted by date and type, with quick search.",
-        "highlights": {
-          "0": "Search by title or topic",
-          "1": "Filter by activity type"
         }
       }
     }
@@ -170,21 +134,9 @@
     "kicker": "Contact us",
     "title": "Bring Tecktal Tutor to your students.",
     "emailNote": "We reply within 1–2 business days",
+    "phoneNote": "Mon–Fri, 9am–6pm",
     "locationLabel": "Dakar, Senegal",
-    "locationNote": "Serving classrooms across the region",
-    "form": {
-      "nameLabel": "Full name",
-      "namePlaceholder": "Your name",
-      "emailLabel": "Email",
-      "emailPlaceholder": "you@school.com",
-      "orgLabel": "School / Organization",
-      "orgPlaceholder": "Where you teach or work",
-      "messageLabel": "Message",
-      "messagePlaceholder": "Tell us about your classroom and what you'd like to see…",
-      "submit": "Send message",
-      "errorMissing": "Please add your name and email.",
-      "success": "Thanks, {name}! We'll get back to you soon."
-    }
+    "locationNote": "Serving classrooms across the region"
   },
   "Footer": {
     "tagline": "Tecktal Tutor: an AI study companion that helps every student truly understand, not just copy an answer.",

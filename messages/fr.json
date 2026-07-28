@@ -15,7 +15,7 @@
     "titleHighlight": "vraie compréhension.",
     "lead": "Tecktal Tutor est ton compagnon d'étude IA : importe tes cours, pose tes questions, entraîne-toi avec des quiz et progresse avec un tuteur vocal toujours disponible.",
     "cta": "Découvrir Tecktal Tutor",
-    "statValue": "11",
+    "statValue": "6",
     "statLabel": "Outils IA intégrés",
     "markAlt": "Symbole TECKTAL"
   },
@@ -34,8 +34,8 @@
     "slideLabel": "Diapositive {number}",
     "slides": {
       "0": "Pose une question, Tecktal Tutor répond comme un vrai professeur particulier",
-      "1": "Parle à voix haute avec ton tuteur vocal, en mode mains libres",
-      "2": "Le Solveur intelligent détaille chaque étape de la résolution",
+      "1": "Le Solveur intelligent détaille chaque étape de la résolution",
+      "2": "Transforme n'importe quelle fonction ou jeu de données en graphique interactif en quelques secondes",
       "3": "La recherche approfondie génère des rapports complets et sourcés",
       "4": "L'apprentissage guidé construit ton parcours, leçon par leçon",
       "5": "Génère des quiz personnalisés et suis ta progression"
@@ -43,7 +43,7 @@
   },
   "Tutor": {
     "sectionTitle": "Tecktal Tutor : un compagnon d'étude IA, complet.",
-    "sectionSubtitle": "Onze outils propulsés par l'IA pour transformer tes cours en vraie compréhension.",
+    "sectionSubtitle": "Sept outils propulsés par l'IA pour transformer tes cours en vraie compréhension.",
     "features": {
       "chat": {
         "name": "Tuteur IA",
@@ -52,15 +52,6 @@
         "highlights": {
           "0": "Réponses détaillées avec exemples concrets",
           "1": "Mode mains libres : parle, l'IA t'écoute"
-        }
-      },
-      "voice": {
-        "name": "Tuteur vocal",
-        "tag": "Apprends à voix haute",
-        "description": "Discute à voix haute avec ton tuteur IA. La conversation est en duplex intégral : interromps, reviens en arrière ou demande une autre explication, exactement comme à l'oral.",
-        "highlights": {
-          "0": "Plusieurs voix au choix",
-          "1": "Idéal pour réviser sans écran"
         }
       },
       "solver": {
@@ -72,13 +63,13 @@
           "1": "Vérifié par le moteur logique de Tecktal"
         }
       },
-      "questions": {
-        "name": "Générateur de questions",
-        "tag": "Quiz personnalisés",
-        "description": "Génère automatiquement des QCM à partir de tes propres cours pour t'entraîner, avec correction immédiate et suivi de ton score.",
+      "visualize": {
+        "name": "Visualiseur",
+        "tag": "Vois-le en graphique",
+        "description": "Transforme une fonction, un jeu de données ou un concept en graphique ou diagramme interactif à l'instant, avec le code source prêt à copier ou modifier.",
         "highlights": {
-          "0": "Quiz générés depuis tes documents",
-          "1": "Score et progression en temps réel"
+          "0": "Graphiques, diagrammes et équations générés instantanément",
+          "1": "Code source disponible pour copier ou modifier"
         }
       },
       "research": {
@@ -90,6 +81,15 @@
           "1": "Export en Markdown ou PDF"
         }
       },
+      "questions": {
+        "name": "Générateur de questions",
+        "tag": "Quiz personnalisés",
+        "description": "Génère automatiquement des QCM à partir de tes propres cours pour t'entraîner, avec correction immédiate et suivi de ton score.",
+        "highlights": {
+          "0": "Quiz générés depuis tes documents",
+          "1": "Score et progression en temps réel"
+        }
+      },
       "learning": {
         "name": "Apprentissage guidé",
         "tag": "Ton parcours, leçon par leçon",
@@ -99,24 +99,6 @@
           "1": "Progression visible étape par étape"
         }
       },
-      "cowriter": {
-        "name": "Co-Writer",
-        "tag": "Rédaction assistée par l'IA",
-        "description": "Rédige dissertations, rapports ou résumés dans un éditeur markdown avec aperçu en direct, et demande à l'IA d'améliorer le style ou la conclusion.",
-        "highlights": {
-          "0": "Continuation automatique par l'IA",
-          "1": "Suggestions de réécriture ciblées"
-        }
-      },
-      "ideagen": {
-        "name": "IdeaGen",
-        "tag": "Génère des idées de recherche",
-        "description": "Génère des pistes de recherche et des propositions complètes — hypothèse, méthodologie, résultats attendus — à partir des documents que tu sélectionnes.",
-        "highlights": {
-          "0": "Plusieurs idées générées en un clic",
-          "1": "Propositions détaillées et structurées"
-        }
-      },
       "knowledge": {
         "name": "Bases de connaissances",
         "tag": "Tes documents comme source",
@@ -124,24 +106,6 @@
         "highlights": {
           "0": "Une base par matière ou par projet",
           "1": "Suivi du traitement de tes documents"
-        }
-      },
-      "notebooks": {
-        "name": "Notebooks",
-        "tag": "Sauvegarde et organise",
-        "description": "Enregistre les solutions, quiz et recherches générés dans des carnets organisés par matière, pour les retrouver facilement avant un contrôle.",
-        "highlights": {
-          "0": "Carnets organisés par matière",
-          "1": "Export en Markdown"
-        }
-      },
-      "history": {
-        "name": "Historique",
-        "tag": "Tout ton travail au même endroit",
-        "description": "Retrouve toutes tes sessions passées — solveur, recherches, quiz, conversations — classées par date et par type, avec une recherche rapide.",
-        "highlights": {
-          "0": "Recherche par titre ou par sujet",
-          "1": "Filtres par type d'activité"
         }
       }
     }
@@ -170,21 +134,9 @@
     "kicker": "Contactez-nous",
     "title": "Apportez Tecktal Tutor à vos élèves.",
     "emailNote": "Nous répondons sous 1 à 2 jours ouvrés",
+    "phoneNote": "Lun–Ven, 9h–18h",
     "locationLabel": "Dakar, Sénégal",
-    "locationNote": "Au service des classes de toute la région",
-    "form": {
-      "nameLabel": "Nom complet",
-      "namePlaceholder": "Votre nom",
-      "emailLabel": "Email",
-      "emailPlaceholder": "vous@ecole.com",
-      "orgLabel": "École / Organisation",
-      "orgPlaceholder": "Où vous enseignez ou travaillez",
-      "messageLabel": "Message",
-      "messagePlaceholder": "Parlez-nous de votre classe et de ce que vous aimeriez voir…",
-      "submit": "Envoyer le message",
-      "errorMissing": "Merci d'indiquer votre nom et votre email.",
-      "success": "Merci {name}, on revient vers vous très vite."
-    }
+    "locationNote": "Au service des classes de toute la région"
   },
   "Footer": {
     "tagline": "Tecktal Tutor : un compagnon d'étude IA qui aide chaque élève à vraiment comprendre, pas seulement à recopier une réponse.",

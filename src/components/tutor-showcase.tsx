@@ -6,30 +6,22 @@ import { useState } from "react";
 import { Reveal } from "./reveal";
 import {
   ChatIcon,
-  VoiceIcon,
   SolverIcon,
+  VisualizeIcon,
   QuestionsIcon,
   ResearchIcon,
   LearningIcon,
-  CoWriterIcon,
-  IdeaGenIcon,
   KnowledgeIcon,
-  NotebooksIcon,
-  HistoryIcon,
 } from "./tutor-icons";
 
 const FEATURES = [
   { id: "chat", Icon: ChatIcon, color: "var(--color-brand-blue)", tint: "rgba(11,93,166,0.12)", image: "/assets/tutor/tutor-home.png" },
-  { id: "voice", Icon: VoiceIcon, color: "var(--color-brand-orange)", tint: "rgba(232,82,30,0.12)", image: "/assets/tutor/tutor-voice.png" },
   { id: "solver", Icon: SolverIcon, color: "var(--color-brand-green)", tint: "rgba(14,158,52,0.12)", image: "/assets/tutor/tutor-solver.png" },
-  { id: "questions", Icon: QuestionsIcon, color: "var(--color-brand-amber)", tint: "rgba(242,166,12,0.14)", image: "/assets/tutor/tutor-questions.png" },
+  { id: "visualize", Icon: VisualizeIcon, color: "var(--color-brand-orange)", tint: "rgba(232,82,30,0.12)", image: "/assets/tutor/tutor-visualize.png" },
   { id: "research", Icon: ResearchIcon, color: "var(--color-brand-blue)", tint: "rgba(11,93,166,0.12)", image: "/assets/tutor/tutor-research.png" },
+  { id: "questions", Icon: QuestionsIcon, color: "var(--color-brand-amber)", tint: "rgba(242,166,12,0.14)", image: "/assets/tutor/tutor-questions.png" },
   { id: "learning", Icon: LearningIcon, color: "var(--color-brand-green)", tint: "rgba(14,158,52,0.12)", image: "/assets/tutor/tutor-learning.png" },
-  { id: "cowriter", Icon: CoWriterIcon, color: "var(--color-brand-orange)", tint: "rgba(232,82,30,0.12)", image: "/assets/tutor/tutor-cowriter.png" },
-  { id: "ideagen", Icon: IdeaGenIcon, color: "var(--color-brand-amber)", tint: "rgba(242,166,12,0.14)", image: "/assets/tutor/tutor-ideagen.png" },
   { id: "knowledge", Icon: KnowledgeIcon, color: "var(--color-brand-blue)", tint: "rgba(11,93,166,0.12)", image: "/assets/tutor/tutor-knowledge.png" },
-  { id: "notebooks", Icon: NotebooksIcon, color: "var(--color-brand-orange)", tint: "rgba(232,82,30,0.12)", image: "/assets/tutor/tutor-notebooks.png" },
-  { id: "history", Icon: HistoryIcon, color: "var(--color-brand-green)", tint: "rgba(14,158,52,0.12)", image: "/assets/tutor/tutor-history.png" },
 ] as const;
 
 export function TutorShowcase() {
